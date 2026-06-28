@@ -83,7 +83,7 @@
 | region_South | 0.0059 | Yes ** |
 | region_West | 0.0020 | Yes ** |
 | store_Residential | < 0.001 | Yes *** |
-| store_High Street | 0.0140 | Yes * |
-| avg_discount_pct | 0.1523 | **No** |
-| region_North | 0.4352 | **No** |
-| store_Mall | 0.2174 | **No** |
+| store_High Street | 0.4594 | **No** |
+| avg_discount_pct | 0.1599 | **No** |
+| region_North | 0.87632 | **No** |
+| store_Mall | 0.9466 | **No** |
