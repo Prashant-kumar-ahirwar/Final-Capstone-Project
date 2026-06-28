@@ -1,10 +1,3 @@
-# Cleaning Log – Raw Orders Dataset
-**Analyst:** Capstone Project  
-**Date:** June 2025  
-**Tool:** Python 3 (pandas, openpyxl)
-
----
-
 ## 1. Issues Found in Raw Data
 
 ### Text Fields
