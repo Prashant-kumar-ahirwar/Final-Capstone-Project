@@ -1,10 +1,3 @@
-# Model Comparison — Regression Analysis
-**Project:** Retail Chain Sales Driver Analysis  
-**Dependent Variable:** monthly_sales  
-**Dataset:** 320 store-month records across 4 regions and 4 store types
-
----
-
 ## Models Built
 
 ### Model 1 — SLR: footfall
