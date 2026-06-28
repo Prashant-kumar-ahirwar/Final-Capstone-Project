@@ -24,8 +24,6 @@ The dataset covers orders across 4 regions (North, South, East, West), 3 product
 
 - **Python 3** – data cleaning and automation
 - **pandas** – data manipulation, parsing, aggregation
-- **openpyxl** – Excel file creation and formatting
-- **matplotlib** – screenshot/chart generation
 
 ---
 
