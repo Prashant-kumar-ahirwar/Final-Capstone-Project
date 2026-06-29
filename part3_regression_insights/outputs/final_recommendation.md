@@ -1,10 +1,3 @@
-# Final Recommendation Memo
-**To:** Retail Chain Leadership Team  
-**From:** Business Analyst  
-**Re:** Sales Driver Analysis — Regression Findings & Recommendations
-
----
-
 ## 1. Which Factors Are Most Strongly Associated with Monthly Sales?
 
 Based on the multiple regression model (R² = 0.8380), the following factors show the strongest and most statistically reliable associations with monthly sales:
